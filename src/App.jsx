@@ -50,7 +50,7 @@ export const App = () => {
       <section class="header">
 
 
-        <h1 class="main_title">Figma取得スキル🦕🦖</h1>
+        <h1 class="main_title">これからやること🦕🦖</h1>
 
         </section>
       <section class="container">
@@ -61,7 +61,7 @@ export const App = () => {
         disabled={imcompleteTodos.length >= 5}
       />
 
-      {imcompleteTodos.length >= 5 && <p>!登録は５個まで!</p>}
+      {imcompleteTodos.length >= 3 && <p>!登録は3個まで!</p>}
 
       <ImcompleteTodos
         todos={imcompleteTodos}
