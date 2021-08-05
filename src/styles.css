@@ -607,7 +607,7 @@ button {
 }
 
 button:hover {
-  background-color:var(--figma-red);
+  background-color:var(--figma-blue);
   color:var(--font-sub);
   padding: 4px 16px;
   cursor: pointer;

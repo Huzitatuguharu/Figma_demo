@@ -6,7 +6,7 @@ export const InputTodo = (props) => {
     <div className="input_area childbox">
       <input
         disabled={disabled}
-        placeholder="やることを入力！"
+        placeholder="何食べたいですか？"
         value={todoText}
         onChange={onChange}
       />

@@ -50,7 +50,7 @@ export const App = () => {
       <section class="header">
 
 
-        <h1 class="main_title">これからやること🦕🦖</h1>
+        <h1 class="main_title">食べたいもの🦕🦖</h1>
 
         </section>
       <section class="container">
